@@ -1,0 +1,15 @@
+{
+  "key.category.cmi": "CheManyItems (CMI)",
+  "key.category.cmi.main": "CheManyItems (CMI)",
+  "key.cmi.open_editor": "Abrir Editor de Ítems (CMI)",
+  "key.cmi.open_settings": "Abrir Menú de Ajustes (CMI)",
+  "key.cmi.quick_kit": "Equipar Kit Rápido",
+  "cmi.gui.title": "CMI - CheManyItems",
+  "cmi.settings.title": "Ajustes de CheManyItems (CMI)",
+  "cmi.settings.open_key": "Tecla para abrir Menú",
+  "cmi.settings.safe_mode": "Protección Anti-Kick / Safe Mode",
+  "cmi.settings.safe_mode.desc": "Previene enviar paquetes NBT mayores a 50 KB para evitar desconexiones en servidores.",
+  "cmi.settings.save": "Guardar Cambios",
+  "cmi.settings.press_key": "Presiona una tecla...",
+  "cmi.cmd.unknown": "Comando CMI desconocido. Usa /cmi help"
+}

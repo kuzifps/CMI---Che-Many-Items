@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "cmi",
+  "version": "1.0.0",
+  "name": "CheManyItems (CMI)",
+  "description": "Too Many Items Argentina 🇦🇷 - Editor avanzado de items, kits 32k, lores .txt, pixel art, animated tags y macros.",
+  "authors": [
+    "fxfps",
+    "Lauti"
+  ],
+  "contact": {
+    "homepage": "https://github.com/fxfps/cmi"
+  },
+  "license": "MIT",
+  "icon": "assets/cmi/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.fxfps.cmi.CmiMod"
+    ],
+    "client": [
+      "com.fxfps.cmi.client.CmiClientMod"
+    ],
+    "modmenu": [
+      "com.fxfps.cmi.client.compat.CmiModMenuCompat"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "26.1.2",
+    "java": ">=25"
+  }
+}

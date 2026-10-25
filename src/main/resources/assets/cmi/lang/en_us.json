@@ -1,0 +1,15 @@
+{
+  "key.category.cmi": "CheManyItems (CMI)",
+  "key.category.cmi.main": "CheManyItems (CMI)",
+  "key.cmi.open_editor": "Open CheManyItems Menu",
+  "key.cmi.open_settings": "Open CheManyItems Settings",
+  "key.cmi.quick_kit": "Quick Equip Kit",
+  "cmi.gui.title": "CMI - CheManyItems",
+  "cmi.settings.title": "CheManyItems Settings",
+  "cmi.settings.open_key": "Menu Open Key",
+  "cmi.settings.safe_mode": "Anti-Kick Protection / Safe Mode",
+  "cmi.settings.safe_mode.desc": "Prevents sending NBT packets larger than 50 KB to avoid kicks on public servers.",
+  "cmi.settings.save": "Save Changes",
+  "cmi.settings.press_key": "Press any key...",
+  "cmi.cmd.unknown": "Unknown CMI command. Use /cmi help"
+}

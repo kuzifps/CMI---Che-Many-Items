@@ -1,0 +1,28 @@
+# Gradle and Build Output
+.gradle/
+build/
+bin/
+run/
+out/
+
+# IDE and Editor Files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+
+# Logs and OS Junk
+*.log
+logs/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Archives and Temporary
+*.zip
+*.rar
+*.tar.gz
